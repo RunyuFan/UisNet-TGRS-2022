@@ -4,7 +4,7 @@ This repository is for our TGRS paper: "Fine-scale Urban Informal Settlements Ma
 If it is helpful for you, please cite the following references.
 
 
-    @ARTICLE{9877906,
+    @ARTICLE{RunyuFan-UisNet,
 
       author={Fan, Runyu and Li, Fengpeng and Han, Wei and Yan, Jining and Li, Jun and Wang, Lizhe},
   
