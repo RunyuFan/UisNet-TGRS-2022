@@ -1,6 +1,8 @@
 # TGRS-UisNet
 This repository is for our TGRS paper: "Fine-scale Urban Informal Settlements Mapping by Fusing Remote Sensing Images and Building Data via a Transformer-based Multimodal Fusion Network". (Please refer to https://ieeexplore.ieee.org/abstract/document/9877906/ )
 
+The UIS-Shenzhen dataset can be obtained from： 链接：https://pan.baidu.com/s/1cpNo0CqHiwxC05wHotU8eQ?pwd=e22u 提取码：e22u --来自百度网盘超级会员V1的分享
+
 If it is helpful for you, please cite the following references.
 
 
