@@ -3,15 +3,12 @@ This repository is for our TGRS paper: "Fine-scale Urban Informal Settlements Ma
 
 The UIS-Shenzhen dataset can be obtained from： 
 
-(link expired)
-链接：https://pan.baidu.com/s/1Rd4nAw3vK16vmDNXlTYEaQ?pwd=bsd0 
-提取码：bsd0 
---来自百度网盘超级会员V2的分享
-
 (New link)
-链接：https://pan.baidu.com/s/1tky1MzlprsMBf49bFc24bg?pwd=268p 
-提取码：268p 
---来自百度网盘超级会员V3的分享
+链接:https://pan.baidu.com/s/12safMvDcUs34TQL15eYQWw?pwd=7448 
+提取码:7448
+复制这段内容打开「百度网盘APP 即可获取」
+
+Note: The current version is in *.jpg/*.png format. If you need the precise geographical coordinates of the dataset (e.g. in *.tif/*.shp format), please email runyufan@cug.edu.cn and clarify your purpose for using this dataset.
 
 If it is helpful for you, please cite the following references.
 
