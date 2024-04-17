@@ -3,7 +3,7 @@ This repository is for our TGRS paper: "Fine-scale Urban Informal Settlements Ma
 
 The UIS-Shenzhen dataset can be obtained from： 
 
-(New link)
+(New link: Validity period from 2024/4/17 to 2024/5/17)
 链接:https://pan.baidu.com/s/12safMvDcUs34TQL15eYQWw?pwd=7448 
 提取码:7448
 复制这段内容打开「百度网盘APP 即可获取」
