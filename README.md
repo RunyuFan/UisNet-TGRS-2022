@@ -5,8 +5,7 @@ The UIS-Shenzhen dataset can be obtained from：
 
 (New link: )
 通过百度网盘分享的文件：樊润宇-深圳市非正规居住区语义分割数据集（UIS-Shenzhen）.zip
-链接：https://pan.baidu.com/s/1-TnXRGiKz7_OOsnPTvbeKg?pwd=30a9 
-提取码：30a9 
+链接：https://pan.baidu.com/s/1k6CQFTr8o_gD7dppt4r-qg?pwd=278b
 --来自百度网盘超级会员V4的分享
 
 Note: The current version is in *.jpg/*.png format. If you need the precise geographical coordinates of the dataset (e.g. in *.tif/*.shp format), please email runyufan@cug.edu.cn and clarify your purpose for using this dataset.
